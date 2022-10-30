@@ -1,0 +1,3 @@
+This is the source text.
+Happy to be copied into the copy text file.
+Jijijiji.
